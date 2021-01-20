@@ -1,5 +1,10 @@
 # Maven Artifactory Plugin
 
+
+e40065567803e4da33fd5d1ed47f36f519b042fd
+
+
+
 ## Overview
 
 This example is using the Maven Artifactory Plugin for artifacts and build-info deployment to Artifactory. 
